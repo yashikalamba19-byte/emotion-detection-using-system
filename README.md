@@ -15,3 +15,7 @@ Emotion classification
 
 Author
 Yashika Lamba
+
+## Project Output
+
+![Output](output.png)
